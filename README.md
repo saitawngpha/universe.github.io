@@ -4,13 +4,13 @@ Simple and easy to understand. You can use it if you need.
 
 
 ## Screenshots
-*Watch Demo [here](./file/video.mp4).*  
+*Watch Demo and Video [here](./file/video.mp4).*  
 ![](./file/demo.gif)  
 
 
 ## License
 
-    Copyright 2017 RECRUIT LIFESTYLE CO., LTD.
+    Copyright 2017 Sai Tawng Pha.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
