@@ -5,7 +5,7 @@ Simple and easy to understand. You can use it if you need.
 
 ## Screenshots
 *Watch Demo [here](./file/video.mp4).*  
-![video](./file/video.mp4)  
+![](./file/demo.gif)  
 
 
 ## License
